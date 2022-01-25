@@ -1,0 +1,120 @@
+item {
+  id: 1
+  name: 'target'
+}
+
+item {
+  id: 2
+  name: 'small_mocap_cam'
+}
+
+item {
+  id: 3
+  name: 'user_disk'
+}
+
+item {
+  id: 4
+  name: 'target_disk'
+}
+
+item {
+  id: 5
+  name: 'two'
+}
+
+item {
+  id: 6
+  name: 'three'
+}
+
+item {
+  id: 7
+  name: 'user'
+}
+
+item {
+  id: 8
+  name: 'grid'
+}
+
+item {
+  id: 9
+  name: 'Done'
+}
+
+item {
+  id: 10
+  name: 'Ready?'
+}
+
+item {
+  id: 11
+  name: 'proctor'
+}
+
+item {
+  id: 12
+  name: 'cross'
+}
+
+item {
+  id: 13
+  name: 'mocap_cam'
+}
+
+item {
+  id: 14
+  name: 'duck'
+}
+
+item {
+  id: 15
+  name: 'head'
+}
+
+item {
+  id: 16
+  name: 'one'
+}
+
+item {
+  id: 17
+  name: 'safezone'
+}
+
+item {
+  id: 18
+  name: 'crosshair'
+}
+
+item {
+  id: 19
+  name: 'gun'
+}
+
+item {
+  id: 20
+  name: 'hand'
+}
+
+item {
+  id: 21
+  name: 'carabiner'
+}
+
+item {
+  id: 22
+  name: 'door'
+}
+
+item {
+  id: 23
+  name: 'monitor'
+}
+
+item {
+  id: 24
+  name: 'foot'
+}
+

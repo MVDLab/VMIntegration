@@ -1,0 +1,15 @@
+images/
+env/
+utils/data_transfer_ian.sh
+output/
+*__pycache__/
+.vscode/
+doctrees/
+new_tfrecords/
+sample_datas/images
+.buildinfo
+helpful_documents/*.sh
+*.~*
+*.egg-info
+sample_datas/hidden
+.idea/
