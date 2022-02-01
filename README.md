@@ -1,4 +1,4 @@
-# Motor & Visual Development Lab - VMIntegration Tools
+# Motor & Visual Development Lab - VMIntegration
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-3710/)
 
 This repository contains tools to open and spatially/temporally align data files recorded from mobile eye-tracking, camera-based motion-capture, and an immersive virtual environment and to generate visuomotor performance metrics.
