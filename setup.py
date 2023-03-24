@@ -11,7 +11,7 @@ setup(
         "pandas>=1",
         "scipy",
         "numpy",
-        "tensorflow==1.15",
+        "tensorflow==2.11.1",
         "opencv-python",
         "tqdm",
         "xlsxwriter",
